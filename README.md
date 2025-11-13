@@ -17,13 +17,13 @@ This Laravel project displays a digital photo album with 100 images divided into
 | 5 | Photos of Tourist Spots | 20 |
 
 
-
+<img width="1916" height="1029" alt="Screenshot 2025-11-13 184611" src="https://github.com/user-attachments/assets/6b0841e2-6316-4a0b-98aa-0588a5d9e608" />
+<img width="1919" height="1032" alt="Screenshot 2025-11-13 184623" src="https://github.com/user-attachments/assets/609ea23a-bd11-4340-b44a-be5842bf8e45" />
 <img width="1919" height="1034" alt="Screenshot 2025-11-13 184636" src="https://github.com/user-attachments/assets/9caa22a9-fbe5-4f61-b5bc-64139cfa19a2" />
 <img width="1919" height="1029" alt="Screenshot 2025-11-13 184646" src="https://github.com/user-attachments/assets/db35c2a9-9fa7-4363-8877-840b845c14c3" />
 <img width="1919" height="1034" alt="Screenshot 2025-11-13 184717" src="https://github.com/user-attachments/assets/db37d8d2-3067-4b3b-b891-751cc7029bb5" />
 <img width="1919" height="1032" alt="Screenshot 2025-11-13 184731" src="https://github.com/user-attachments/assets/be405f35-43e5-4b33-a39b-531414d50afe" />
-<img width="1916" height="1029" alt="Screenshot 2025-11-13 184611" src="https://github.com/user-attachments/assets/6b0841e2-6316-4a0b-98aa-0588a5d9e608" />
-<img width="1919" height="1032" alt="Screenshot 2025-11-13 184623" src="https://github.com/user-attachments/assets/609ea23a-bd11-4340-b44a-be5842bf8e45" />
+
 
 
 
